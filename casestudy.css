@@ -1,0 +1,39 @@
+.bannerBG{
+    background-image: url("caseStudyImage/bannerBG.png");
+    background-position: center;
+    padding: 40px;
+    color: white;
+}
+
+.bannerBG h1{
+    font-weight: bold;
+}
+
+.overviewText{
+    margin-top: 24px;
+}
+
+.overviewText h2{
+    margin-bottom: 16px;
+}
+
+.casestudyNav{
+    background-color: rgb(226, 248, 255);
+}
+
+.casestudyContent h2,h3{
+    margin-top: 16px;
+}
+
+.caseActive{
+    display: block;
+}
+
+.caseInactive{
+    display: none;
+}
+
+.caseNavActive, .caseNavActive a{
+    background-color: blue;
+    color: white;
+}
